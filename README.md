@@ -1,6 +1,6 @@
 # 🐍 Snake Game en React
 
-> Un mini‑juego de Snake hecho con React y Vite, perfecto para tenerlo embebido en tu sitio o como playground personal.
+Un mini‑juego de Snake hecho con React y Vite, perfecto para tenerlo embebido en tu sitio o como playground personal.
 
 ## ¿Qué es este proyecto?
 
