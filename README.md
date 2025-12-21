@@ -12,6 +12,8 @@ Es una implementación del clásico juego de la serpiente, construida con:
 
 La serpiente se dibuja en un tablero de 20×20, se mueve en tiempo real y va creciendo cada vez que come. El puntaje es simplemente el largo actual de la serpiente.
 
+![Texto alternativo](snakeGame/readmeImg/snake1.png)
+
 ## Cómo se juega
 
 - **Moverte**: usa las teclas `W`, `A`, `S`, `D`
@@ -31,6 +33,9 @@ La app principal vive en:
 - snakeGame/src/App.jsx
 - snakeGame/src/pages/Index.jsx
 - snakeGame/src/pages/Snake.jsx
+
+![Texto alternativo](snakeGame/readmeImg/snake2.png)
+
 
 ## Cómo correrlo en local
 
@@ -71,6 +76,9 @@ snake/
 				Snake.jsx
 			main.css
 ```
+
+![Texto alternativo](snakeGame/readmeImg/snake3.png)
+
 
 ## Ideas para mejorar
 
